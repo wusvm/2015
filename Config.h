@@ -1,2 +1,0 @@
-#define SP_SVM_VERSION_MAJOR 0
-#define SP_SVM_VERSION_MINOR 1
